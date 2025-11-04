@@ -1,0 +1,40 @@
+﻿  game_cubes.c
+C:\Users\Stein\3d\quakemov\quakemov\game_cubes.c(19,17): warning C4047: 'function': 'vertex *' differs in levels of indirection from 'vertex (*)[36]'
+C:\Users\Stein\3d\quakemov\quakemov\game_cubes.c(19,17): warning C4024: 'hGL_CreateCube': different types for formal and actual parameter 1
+C:\Users\Stein\3d\quakemov\quakemov\game_cubes.c(20,31): warning C4047: 'function': 'vertex *' differs in levels of indirection from 'vertex (*)[36]'
+C:\Users\Stein\3d\quakemov\quakemov\game_cubes.c(20,31): warning C4024: 'uGL_UpdateMesh': different types for formal and actual parameter 2
+C:\Users\Stein\3d\quakemov\quakemov\game_cubes.c(23,8): warning C4047: 'initializing': 'mesh *' differs in levels of indirection from 'mesh **'
+  game_player.c
+C:\Users\Stein\3d\quakemov\quakemov\game_player.c(214,27): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Stein\3d\quakemov\quakemov\game_player.c(215,27): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  main.c
+C:\Users\Stein\3d\quakemov\quakemov\main.c(52,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Stein\3d\quakemov\quakemov\main.c(54,6): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Stein\3d\quakemov\quakemov\main.c(54,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Stein\3d\quakemov\quakemov\main.c(54,49): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Stein\3d\quakemov\quakemov\main.c(67,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Stein\3d\quakemov\quakemov\main.c(77,43): warning C4090: 'function': different 'const' qualifiers
+C:\Users\Stein\3d\quakemov\quakemov\main.c(77,54): warning C4090: 'function': different 'const' qualifiers
+C:\Users\Stein\3d\quakemov\quakemov\main.c(78,43): warning C4090: 'function': different 'const' qualifiers
+C:\Users\Stein\3d\quakemov\quakemov\main.c(78,54): warning C4090: 'function': different 'const' qualifiers
+C:\Users\Stein\3d\quakemov\quakemov\main.c(133,17): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Stein\3d\quakemov\quakemov\main.c(133,22): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Stein\3d\quakemov\quakemov\main.c(133,27): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Stein\3d\quakemov\quakemov\main.c(169,26): warning C4047: 'function': 'char *const ' differs in levels of indirection from 'char *[16]'
+C:\Users\Stein\3d\quakemov\quakemov\main.c(169,26): warning C4024: 'snprintf': different types for formal and actual parameter 1
+C:\Users\Stein\3d\quakemov\quakemov\main.c(170,26): warning C4047: 'function': 'char *const ' differs in levels of indirection from 'char *[16]'
+C:\Users\Stein\3d\quakemov\quakemov\main.c(170,26): warning C4024: 'snprintf': different types for formal and actual parameter 1
+C:\Users\Stein\3d\quakemov\quakemov\main.c(171,26): warning C4047: 'function': 'char *const ' differs in levels of indirection from 'char *[16]'
+C:\Users\Stein\3d\quakemov\quakemov\main.c(171,26): warning C4024: 'snprintf': different types for formal and actual parameter 1
+C:\Users\Stein\3d\quakemov\quakemov\main.c(172,30): warning C4047: 'function': 'char *const ' differs in levels of indirection from 'char *[16]'
+C:\Users\Stein\3d\quakemov\quakemov\main.c(172,30): warning C4024: 'snprintf': different types for formal and actual parameter 1
+C:\Users\Stein\3d\quakemov\quakemov\main.c(173,28): warning C4047: 'function': 'char *const ' differs in levels of indirection from 'char *[16]'
+C:\Users\Stein\3d\quakemov\quakemov\main.c(173,28): warning C4024: 'snprintf': different types for formal and actual parameter 1
+C:\Users\Stein\3d\quakemov\quakemov\main.c(176,5): warning C4013: 'tGL_TextRender' undefined; assuming extern returning int
+C:\Users\Stein\3d\quakemov\quakemov\main.c(190,31): warning C4047: 'function': 'char *const ' differs in levels of indirection from 'char *[16]'
+C:\Users\Stein\3d\quakemov\quakemov\main.c(190,31): warning C4024: 'snprintf': different types for formal and actual parameter 1
+C:\Users\Stein\3d\quakemov\quakemov\main.c(174,34): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Stein\3d\quakemov\quakemov\main.c(191,35): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+C:\Users\Stein\3d\quakemov\quakemov\game_cubes.c(54,1): warning C4715: 'CUBES_removeIndex': not all control paths return a value
+  quakemov.vcxproj -> C:\Users\Stein\3d\quakemov\x64\Debug\quakemov.exe
