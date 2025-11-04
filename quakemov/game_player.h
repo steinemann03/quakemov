@@ -3,7 +3,7 @@
 #include "game_obj.h"
 
 //stupid
-#include "game_cubes.h"//this is stupid, I HATE GLAD
+#include "game_cubes.h"//i mean tihs could just be included in the source file but it conflicts with glad
 
 struct player {
 	struct obj obj;
@@ -24,5 +24,6 @@ void PLAYER_reset();
 void PLAYER_handleInput(GLFWwindow* window);
 void PLAYER_forceJump();
 void PLAYER_launch(float str);
+
 
 void PLAYER_physLogic();
